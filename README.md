@@ -7,7 +7,7 @@ The source code to my website, written in HTML and CSS.
 ```
 The MIT License (MIT)
 
-Copyright (c) 2015-2015 Sameer Khoja
+Copyright (c) 2015-2016 Sameer Khoja
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
