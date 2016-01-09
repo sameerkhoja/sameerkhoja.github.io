@@ -1,6 +1,6 @@
 # samkho10.github.io
 
-The source code to my website, written in HTML, CSS, and Javascript.
+The source code to my website, written in HTML and CSS.
 
 ## License
 
