@@ -1,6 +1,6 @@
 # samkho10.github.io
 
-The source code to my website.
+The source code to my website. Would love to hear feedback!
 
 ## License
 
