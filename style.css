@@ -1,8 +1,9 @@
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400);
+/*@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400);*/
 
 
 h1 {
-	font-weight: normal;2:em;
+	font-weight: 400;
+	letter-spacing: -1px;
 }
 
 p {
@@ -14,7 +15,7 @@ body {
 	/* padding-left: 80px; */
 	padding-top: 20px;
 	color: #003366;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 }
 
