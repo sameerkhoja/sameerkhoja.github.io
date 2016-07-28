@@ -1,0 +1,9 @@
+.header-text{
+  text-align: center;
+  font-size: 5em;
+}
+
+header {
+    display: inline-block;
+    vertical-align: middle;
+}
