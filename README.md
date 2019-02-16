@@ -1,6 +1,6 @@
 # sameerkhoja.github.io
 
-The source code to my website. Would love to hear feedback! :)
+The source code to my website.
 
 ## License
 
