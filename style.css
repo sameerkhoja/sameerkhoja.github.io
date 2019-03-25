@@ -3,6 +3,11 @@ body{
 	/* background-color: #faebd7; */
 }
 
+.container {
+	padding-left: 14em !important;
+	padding-right: 14em !important;
+}
+
 h1 {
 	font-weight: 400;
 	letter-spacing: -1px;
