@@ -2,7 +2,6 @@
 body{
 	/* background-color: #faebd7; */
 }
-@media screen and (min-width:768px) {
 
 h1 {
 	font-weight: 400;
@@ -100,8 +99,8 @@ ul {
 
 @media screen and (min-width:768px) {
   .container {
-		padding-left: 14em !important;
-		padding-right: 14em !important;
+		padding-left: 14em;
+		padding-right: 14em;
 		text-align: center;
 	}
 
