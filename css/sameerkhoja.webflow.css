@@ -1,0 +1,180 @@
+a {
+  border-bottom: 1px solid hsla(0, 0%, 46.7%, 0.25);
+  color: #000;
+  font-size: 17px;
+  text-decoration: none;
+}
+
+li {
+  padding-top: 13px;
+}
+
+.div-block {
+  max-width: 100%;
+}
+
+.column {
+  line-height: 20px;
+}
+
+.section {
+  height: 170px;
+  line-height: 20px;
+}
+
+.heading {
+  margin-bottom: 46px;
+  font-family: Assistant, sans-serif;
+  color: #222;
+  font-size: 28px;
+  line-height: 44px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.link {
+  margin-right: 14px;
+  padding-left: 0px;
+  font-family: Assistant, sans-serif;
+  color: #000;
+  font-size: 18px;
+}
+
+.body {
+  font-family: Assistant, sans-serif;
+}
+
+.link-2 {
+  margin-right: 13px;
+  padding-right: 0px;
+  border-bottom: 2px solid #000;
+  font-family: Assistant, sans-serif;
+  color: #000;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.link-3 {
+  margin-right: 14px;
+  font-family: Assistant, sans-serif;
+  color: #000;
+  font-size: 18px;
+}
+
+.link-4 {
+  font-family: Assistant, sans-serif;
+  color: #000;
+  font-size: 18px;
+}
+
+.heading-2 {
+  font-family: Assistant, sans-serif;
+}
+
+.paragraph {
+  padding-top: 10px;
+  color: #000;
+  font-size: 17px;
+}
+
+.paragraph-2 {
+  margin-bottom: 0px;
+  padding-top: 10px;
+  color: #000;
+  font-size: 17px;
+}
+
+.link-5 {
+  color: #000;
+  font-style: normal;
+}
+
+.link-6 {
+  color: #000;
+}
+
+.heading-3 {
+  margin-top: 40px;
+}
+
+.paragraph-3 {
+  font-size: 16px;
+}
+
+.link-7 {
+  color: #000;
+  font-size: 17px;
+}
+
+.text-block {
+  padding-top: 2px;
+  opacity: 0.59;
+  font-size: 17px;
+}
+
+.link-8 {
+  margin-right: 14px;
+  padding-right: 0px;
+  font-size: 1.2rem;
+}
+
+.column-2 {
+  padding-top: 76px;
+}
+
+.column-3 {
+  padding-right: 9px;
+  padding-left: 10px;
+}
+
+.image {
+  margin-top: 111px;
+  -webkit-transform: translate(0px, 0px);
+  -ms-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+}
+
+.columns {
+  -webkit-transform: translate(0px, 0px);
+  -ms-transform: translate(0px, 0px);
+  transform: translate(0px, 0px);
+}
+
+.columns-2 {
+  margin-bottom: 83px;
+}
+
+.paragraph-4 {
+  padding-top: 8px;
+}
+
+.toplinks {
+  font-size: 1.2rem;
+}
+
+.link-9 {
+  margin-right: 14px;
+}
+
+.column-4 {
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+
+.list {
+  margin-top: 13px;
+  margin-bottom: 50px;
+  padding-left: 19vw;
+  font-family: Assistant, sans-serif;
+}
+
+.heading-4 {
+  font-family: Assistant, sans-serif;
+  font-size: 28px;
+  text-align: right;
+}
+
+.link-10 {
+  font-size: 28px;
+}
+
