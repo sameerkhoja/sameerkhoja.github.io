@@ -1,1 +1,105 @@
-<meta http-equiv="refresh" content="0; url=http://sameerkhoja.com/resume/Sameer_Khoja_Resume.pdf" />
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Sameer Khoja Resume</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <link href="../css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="../css/webflow.css" rel="stylesheet" type="text/css">
+  <link href="../css/sameerkhoja.webflow.css" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+  <script type="text/javascript">WebFont.load({ google: { families: ["Assistant:200,300,regular,600,700,800"] } });</script>
+  <link href="../images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="../images/webclip.png" rel="apple-touch-icon">
+  <style>
+    .resume-page {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 48px 24px;
+      font-family: Assistant, Arial, sans-serif;
+      color: #111;
+    }
+
+    .resume-header {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 24px;
+      margin-bottom: 24px;
+    }
+
+    .resume-title {
+      margin: 0;
+      font-size: 32px;
+      line-height: 1.15;
+      font-weight: 700;
+    }
+
+    .resume-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      justify-content: flex-end;
+    }
+
+    .resume-link {
+      color: #111;
+      font-size: 16px;
+      font-weight: 600;
+      text-decoration: underline;
+    }
+
+    .resume-preview {
+      width: 100%;
+      min-height: 78vh;
+      border: 1px solid #dedede;
+      background: #f8f8f8;
+    }
+
+    .resume-fallback {
+      margin-top: 16px;
+      font-size: 16px;
+      line-height: 1.5;
+    }
+
+    @media (max-width: 720px) {
+      .resume-page {
+        padding: 32px 18px;
+      }
+
+      .resume-header {
+        display: block;
+      }
+
+      .resume-title {
+        margin-bottom: 14px;
+      }
+
+      .resume-actions {
+        justify-content: flex-start;
+      }
+
+      .resume-preview {
+        min-height: 70vh;
+      }
+    }
+  </style>
+</head>
+<body class="body">
+  <main class="resume-page">
+    <header class="resume-header">
+      <h1 class="resume-title">Sameer Khoja Resume</h1>
+      <nav class="resume-actions" aria-label="Resume downloads">
+        <a class="resume-link" href="Sameer_Khoja_Resume.pdf" download>Download PDF</a>
+        <a class="resume-link" href="Sameer_Khoja_Resume.tex" download>Download LaTeX</a>
+        <a class="resume-link" href="../">Home</a>
+      </nav>
+    </header>
+
+    <iframe class="resume-preview" src="Sameer_Khoja_Resume.pdf" title="Sameer Khoja Resume PDF"></iframe>
+    <p class="resume-fallback">
+      If the preview does not load, <a href="Sameer_Khoja_Resume.pdf" download>download the PDF</a>.
+    </p>
+  </main>
+</body>
+</html>
